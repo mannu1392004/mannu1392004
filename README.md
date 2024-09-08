@@ -2,7 +2,7 @@
 
 👀 I’m interested in full-stack development, mobile app development, and cloud technologies.
 
-🌱 I’m currently learning more about AI and enhancing my skills in cybersecurity and ethical hacking.
+🌱 I’m currently learning more about Iot
 
 💞️ I’m looking to collaborate on innovative projects involving machine learning, app development, and IoT.
 
