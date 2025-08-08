@@ -67,14 +67,6 @@ Final-year **Computer Science Engineering** student and **Full-Stack Developer**
 - 🏢 Automated office access with user identification
 - 📊 Activity logging in Firebase Firestore
 
-## 💼 Professional Experience
-
-- **🏢 Founder** - BitePay (April 2025 - Present)
-- **👨‍💻 Lead Developer** - KissClub, Spain (Dec 2024 - Present)  
-- **💻 Freelance Developer** - PG Management App (600+ users)
-- **🏠 Freelance Developer** - Alisan Smart Homes Internal Tool
-- **📱 Mobile Lead** - GDG + DCRUST ODC
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -85,19 +77,6 @@ Final-year **Computer Science Engineering** student and **Full-Stack Developer**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannu1392004&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science**  
-*Deenbandhu Chhotu Ram University Of Science And Technology*  
-*October 2022 - July 2026*
-
-## 🏆 Achievements
-
-- 🎯 **95.3 percentile** in JEE Mains (2022)
-- 🏆 **Smart India Hackathon** qualified (College Level)
-- 🥈 **Rank 22/1000** - NFC-based office entry system hackathon
-- 📱 **Mobile Lead** at GDG + DCRUST ODC
 
 ## 📫 Let's Connect!
 
