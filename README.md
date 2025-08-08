@@ -37,24 +37,6 @@ Final-year **Computer Science Engineering** student and **Full-Stack Developer**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-## 🏆 Featured Projects
-... (keep your project sections as they were) ...
-
-## 🎯 GitHub Stats
-
-<div align="center">
-  <!-- Primary stats (vercel-hosted, reliable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mannu1392004&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- Streak service (heroku) was unreliable — replaced with a static contributions badge for now -->
-  <img src="https://img.shields.io/badge/Contributions-527-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
-
-  <!-- Trophies as a nice visual / alternative to streak -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mannu1392004&theme=radical" alt="Trophies" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannu1392004&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 
 ## 🏆 Featured Projects
