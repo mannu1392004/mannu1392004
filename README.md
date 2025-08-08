@@ -51,8 +51,9 @@ Final-year **Computer Science Engineering** student and **Full-Stack Developer**
 ### 💕 KissClub - Dating & Events Platform
 **Lead Developer** | *December 2024 - Present*
 - 📱 Cross-platform app (Android + iOS) for dating and event networking
-- 🎉 **3+ live parties** hosted in Madrid with **15+ users** each
-- 🏪 Live on both **Play Store** and **App Store**
+- 🏪 Download the App
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.kissclub.mobile&hl=en_IN)
+[![Download on the App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=app-store&logoColor=white)](https://apps.apple.com/in/app/kiss-club/id6743863044)
 - 🔄 Real-time event joining and attendee matching
 
 ### 👁️ VisionMate - Indoor Navigation for Visually Impaired
