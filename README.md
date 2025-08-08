@@ -43,7 +43,7 @@ Final-year **Computer Science Engineering** student and **Full-Stack Developer**
 
 ### 🍽️ [BitePay](https://bitepay.in) - Restaurant QR System
 **Founder & Lead Developer** | *April 2025 - Present*
-- 🚀 **7+ restaurants** using the platform with **1000+ orders** processed
+- 🚀 **10+ restaurants** using the platform with **1500+ orders** processed
 - 🤖 AI-powered photo-to-menu conversion and mood-based recommendations
 - 📊 Real-time inventory management and customer analytics
 - ☁️ Scalable backend deployed on GCP
